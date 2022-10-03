@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+一键脚本：
+wget -N --no-check-certificate https://github.com/cfwarp/CFwarp/raw/main/CFwarp.sh && bash CFwarp.sh
+
+查看WARP当前统计状态：wg
+相关WARP进程命令
+
+源码来源自 (https://ygkkk.blogspot.com/2022/09/gitlabcfwarpwarpwarp.html)
